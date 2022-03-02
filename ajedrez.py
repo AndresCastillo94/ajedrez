@@ -1,5 +1,8 @@
 import sys
 
+
+#Primera versión
+
 Tablero = []
 
 for i in range(8):
